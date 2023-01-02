@@ -1,0 +1,1 @@
+﻿This application allows you to play sounds by pressing the corresponding keys assigned.
